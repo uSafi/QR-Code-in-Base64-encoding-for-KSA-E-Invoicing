@@ -6,7 +6,6 @@ https://zatca.gov.sa/en/E-Invoicing/Pages/default.aspx
 
 Project requirement: Visual Studio 2022, .NET 6.0
 
-![Screenshot](https://user-images.githubusercontent.com/43465134/174651484-338f4ba7-eca0-4148-8a90-5146da3003e3.png)
 
 # License and copyright
 © Usama Safi Yassir
